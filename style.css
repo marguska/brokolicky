@@ -29,11 +29,16 @@ body {
    }
   .ourcontact {
     background-color:burlywood;
-    width: 200px;
+    
     height: 70px;
 }
 
 .kofi {
   width: 400px;
   height: 300px;
+}
+
+h3{
+  DISPLAY: FLEX;
+  JUSTIFY-CONTENT: CENTER;
 }
