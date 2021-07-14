@@ -8,20 +8,37 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 25%;
+    text-align: center;
   }
-
+  .banner{
+    color: black;
+    text-align: center;
+    font-size: 24px;
+  }
+  nav {
+    font-size: 24px;
+    text-align: center;
+  }
   .carousel-inner{
     width:100%;
-    height: 500px;
+    height: 400px;
   }
-
   .carousel-item > img {
     position:absolute;
+    align-items:baseline;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     min-width: 100%;
-    height: 40rem;
+    height: 45rem;
     margin: 0 auto;
   }
-  
+  .emailinput {
+    width: 300px;
+    height: 50px;
+   }
+  .ourcontact {
+    background-color:burlywood;
+    width: 200px;
+    height: 70px;
+}
