@@ -81,3 +81,7 @@ h4{
   align-items: baseline;
   flex-direction: column;
 }
+#swirl {
+  width: 400px;
+  height: 150px;
+}
