@@ -33,7 +33,7 @@ body {
 }
 
 .kofi {
-  width: 400px;
+  width: 200px;
   height: 300px;
 }
 
@@ -151,4 +151,5 @@ h4{
 .logo{
   display: flex;
   justify-content: space-between;
+  background-color: burlywood;
 }
