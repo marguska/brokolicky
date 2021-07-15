@@ -42,3 +42,9 @@ h3{
   DISPLAY: FLEX;
   JUSTIFY-CONTENT: CENTER;
 }
+
+.aboutus {
+  background-color: burlywood;
+  height: 70px;
+  width: 200px
+}
