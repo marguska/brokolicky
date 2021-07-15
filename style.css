@@ -148,3 +148,7 @@ h4{
   display: flex;
   justify-content: end;
 }
+.logo{
+  display: flex;
+  justify-content: space-between;
+}
