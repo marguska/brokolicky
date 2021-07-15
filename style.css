@@ -21,7 +21,6 @@ body {
   }
   .carousel-inner{
     width:100%;
-    height: 400px;
   }
   .emailinput {
     width: 300px;
@@ -143,4 +142,9 @@ h4{
   justify-content: center;
   padding: 20px;
   background-color: burlywood;
+}
+
+#qr{
+  display: flex;
+  justify-content: end;
 }
