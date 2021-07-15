@@ -68,7 +68,16 @@ h4{
   margin-right: auto;
   width:75%;
 }
-col{
-  display:flex;
-  justify-content: center;
+.reviews {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: calc(var(--bs-gutter-y) * -1);
+  margin-right: calc(var(--bs-gutter-x) * -.5);
+  margin-left: calc(var(--bs-gutter-x) * -.5);
+  align-content: space-around;
+  justify-content: space-evenly;
+  align-items: baseline;
+  flex-direction: column;
 }
